@@ -26,6 +26,7 @@
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40">
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40">
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40">
+ <img align="center" src="![image](https://user-images.githubusercontent.com/39622841/131232001-a342a8c4-d3f1-4386-a515-59bbd3173513.png)" width="40">
 
  
  ##
