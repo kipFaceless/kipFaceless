@@ -10,7 +10,7 @@
 #### Super attracted to javascript technologies like Next.js, Vue.js, Node.js and Adonis.js.
 #### I also have a great enthusiasm for working with User Interface based technologies such as Material UI, Flutter, Tailwind Css, as well as Figma and Graphic Design Using Adobe Illustrator.
 
-## Connect With Me  
+## Connect Me  
 <a href="https://www.linkedin.com/in/jose-junior-ao/" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30">
 </a>
