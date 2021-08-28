@@ -7,8 +7,8 @@
 ##### ![alt text](https://media-exp1.licdn.com/dms/image/C4D0BAQHN62LTZaOZGA/company-logo_100_100/0/1561811607179?e=1638403200&v=beta&t=YuGVkDPILaheEc0csaQzQC9r6bUsQY0yCErwXZQ2C7M "Logo Title Text 1")
 
 >Currently working on Sales administration applications, using Angular framework.
-#### Super attracted to javascript technologies like Next.js, Vue.js, Node.js and Adonis.js.
-#### I also have a great enthusiasm for working with User Interface based technologies such as Material UI, Flutter, Tailwind Css, as well as Figma and Graphic Design Using Adobe Illustrator.
+Super attracted to javascript technologies like Next.js, Vue.js, Node.js and Adonis.js.
+I also have a great enthusiasm for working with User Interface based technologies such as Material UI, Flutter, Tailwind Css, as well as Figma and Graphic Design Using Adobe Illustrator.
 
 ## Connect Me  
 <a href="https://www.linkedin.com/in/jose-junior-ao/" target="_blank">
