@@ -14,6 +14,9 @@
 <a href="https://www.linkedin.com/in/jose-junior-ao/" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30">
 </a>
+<a href="https://twitter.com/FacelessKip" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30">
+</a>
 
 
 ## Skills 
