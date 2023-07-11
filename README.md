@@ -3,7 +3,7 @@
 ## I am José Júnior 
 - Angolan, Living In Portugal pt
 
-- Software Developer at @Netlogia. :computer:
+- Software Developer at [@Smartmed.](https://www.smartmed.world/) :computer:
 ##### ![alt text](https://media-exp1.licdn.com/dms/image/C4D0BAQHN62LTZaOZGA/company-logo_100_100/0/1561811607179?e=1638403200&v=beta&t=YuGVkDPILaheEc0csaQzQC9r6bUsQY0yCErwXZQ2C7M "Logo Title Text 1")
 About Me
 >Currently working on Sales administration applications, using Angular framework.
